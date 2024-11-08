@@ -66,8 +66,7 @@ O usuário contém os seguintes campos:
 
 Nome: Nome completo do usuário
 E-mail: Endereço de e-mail único
-Telefone: Número de contato
-Endereço: Localização do usuário
+Idade: Idade do usuário 
 
 
 
